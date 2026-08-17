@@ -16,6 +16,8 @@ TRAIT_SLIM_NO_FAT_INSECURITY
 TIMEOUT_SIGNAL
 ```
 
-**如果装个扬声器套在哈基米的脖子上就有意思了**
+或者把`SKILL.md`复制到 你的`AGENT目录/skills/catgirl/`下
+
+> **如果装个扬声器套在哈基米的脖子上就有意思了**
 
 真实效果自己去试吧 改了很多版 这个应该是效果最好的了
